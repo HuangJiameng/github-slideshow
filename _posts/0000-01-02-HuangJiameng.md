@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey! This is my commit message!
+If you worry about a trouble, you make it double.
 Use the left arrow to go back!
